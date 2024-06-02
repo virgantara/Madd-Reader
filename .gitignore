@@ -1,0 +1,12 @@
+outputs/**
+data/**
+checkpoints/**
+
+data/**
+pic/**
+.idea/**
+__pycache__/**
+*.h5
+*.csv
+*.xyz
+*.pickle
