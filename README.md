@@ -27,7 +27,7 @@ The classification experiments in our paper are done with the pytorch implementa
 ## Citation
 Please cite this paper if you want to use it in your work,
 
-	@ARTICLE{Putra2021-ol,
+	@inproceedings{Putra2021-ol,
 	  title     = "Mad reading law classification using Mel frequency cepstal
 	               coefficient ({MFCC}) and Hidden Markov Model ({HMM})",
 	  author    = "Putra, Oddy Virgantara and Pradana, Faisal Reza and Adiba,
