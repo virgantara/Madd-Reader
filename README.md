@@ -1,7 +1,7 @@
 # Mad Reading Law Classification Using Mel Frequency Cepstal Coefficient (MFCC) and Hidden Markov Model (HMM) 
 This study aims to be able to classify the law of recitation of recitation, especially in the law of Mad recitation of the letter Maryam verses 1 to 15. 
 
-[[Project]](https://github.com/virgantara/MadReading) 
+[[Project]](https://github.com/virgantara/Madd-Reader) 
 
 ## Overview
 This study builds a model using the Mel Frequency Ceptral Coefficient (MFCC) feature extraction with the Hidden Markov Model (HMM) algorithm method
